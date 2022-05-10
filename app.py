@@ -8,7 +8,7 @@ csrf = CSRFProtect(app)
 
 @app.route("/")
 def pagina_inicial():
-    return "DAYVISON OK"
+    return "DARCIO"
  
 
 if __name__ == '__main__':
